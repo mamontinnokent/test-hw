@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PpApplication {
 
     public static void main(String[] args) {
+        System.out.println("HUI");
         SpringApplication.run(PpApplication.class, args);
     }
 
